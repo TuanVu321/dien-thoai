@@ -1,0 +1,21 @@
+table{
+    text-align: center;
+    width: 250px;
+    height:350px;
+    margin-left: 400px;
+    background-color: yellow;
+    color: midnightblue;
+
+}
+td{
+    margin-top: 30px;
+}
+#text{
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 400px;
+    width: 250px;
+    height: 50px;
+    color: white;
+    text-align: center;
+}
